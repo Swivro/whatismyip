@@ -6,11 +6,4 @@ let END_POINT   = -1;
 const main = (json)=> {
     ip = json.ip;
     END_POINT = ip.length;
-
-   
 }
-
-
-
-
-
