@@ -1,2 +1,2 @@
-# a simple tool to check your ipv4 address
+# [not maintained]
 ## demo available at https://swivro.github.io/whatismyip/
